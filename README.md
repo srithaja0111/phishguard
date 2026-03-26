@@ -1,10 +1,10 @@
 # phishguard
 PhishGuard - Phishing blocker browser extension
-
 Abstract:
-
 It is a smart browser extension designed to stop phishing attacks. It checks the websites URL and to detect whether website is real or fake. If the site is dangerous, it shows a warning message to the user but also block access to the website to prevent any interaction. This improves user safety and reduces the risk of cyber attacks.
+
 Tools:
+
 1.Visualstudio code(vs code) - Used for writing and editing code and supports extension for HTML,CSS,JavaScript
 2.Google Chrome Browser - Used to run and test the extension 
 3.Git - Used for version control 
